@@ -1,20 +1,20 @@
 {
- "UserInfo": [
+ "UserInfo":[
      {
        "UserId": "0",
        "Firstname": "Jonatan",
        "Surename": "Bardwell",
        "PlayerDesc": "Intro VR development",
        "MaxGold": "523",
-       "Team": "Red",
+       "Team": "Red"
      },
-          {
+     {
        "UserId": "1",
        "Firstname": "Greg",
        "Surename": "Wiskey",
        "PlayerDesc": "Intro VR development",
        "MaxGold": "523",
-       "Team": "Blue",
+       "Team": "Blue"
      }
    ]
 }
